@@ -26,7 +26,7 @@ Passionate **Frontend Developer** with a strong foundation in **Computer Science
 
 I enjoy transforming ideas into clean, modern, and scalable digital experiences using **React.js, Next.js, and JavaScript ecosystems**.
 
-### 👨‍💻 Professional Highlights
+###  Professional Highlights
 
 - 🔭 Currently working on **Swiggy Clone Project**
 - 🌱 Learning **Node.js & Backend Development**
@@ -41,13 +41,13 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 
 ---
 
-## 🎓 Education
+##  Education
 
-### 🎓 Bachelor of Technology (B.Tech)
+###  Bachelor of Technology (B.Tech)
 
 **Computer Science & Engineering**  
 **Institute of Management & Professional Studies (IMPS), Malda**  
-📅 **2019 — 2022**
+ **2019 — 2022**
 
 - Developed strong knowledge in:
   - Data Structures & Algorithms
@@ -58,11 +58,11 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 
 ---
 
-### 🎓 Diploma / Polytechnic
+###  Diploma / Polytechnic
 
 **Computer Science & Technology**  
 **Institute of Management & Professional Studies (IMPS), Jalpaiguri**  
-📅 **2016 — 2019**
+ **2016 — 2019**
 
 - Built foundational skills in:
   - Programming Fundamentals
@@ -73,7 +73,7 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <table align="center">
@@ -113,7 +113,7 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 
 ---
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <p align="center">
 
@@ -133,7 +133,7 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 
 ---
 
-## 🚀 Current Goals
+##  Current Goals
 
 ✔ Master **Full Stack Development**  
 ✔ Deep dive into **Node.js & Backend Systems**  
