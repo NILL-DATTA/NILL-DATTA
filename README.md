@@ -20,7 +20,7 @@ Frontend Developer • React.js & Next.js Enthusiast • Building Fast, Scalable
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/userupload/21374609/file/original-aab4fed54e17b77f5da6c9a4a0931a74.gif" />
+
 
 Passionate **Frontend Developer** with a strong foundation in **Computer Science & Engineering**, specializing in creating **responsive, high-performance, and user-friendly web applications**.
 
