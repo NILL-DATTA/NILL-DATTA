@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="./ChatGPT%20Image%20May%2027%2C%202026%2C%2012_49_56%20PM.png"
+  <img src="./ChatGPT%20Image%20May%2027%2C%202026%2C%2011_05_47%20PM.png"
        alt="Sagnik Datta Banner"
        width="100%" />
 </p>
