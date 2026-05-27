@@ -76,31 +76,40 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 ## 🌐 Connect With Me
 
 <p align="center">
+<table align="center">
+<tr>
 
+<td align="center">
 <a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45" align="center"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<br>
+<b>LinkedIn</b>
 </a>
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank"><b>LinkedIn</b></a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="50"></td>
 
+<td align="center">
 <a href="https://www.youtube.com/@nilldatta" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="45" align="center"/>
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="45"/>
+<br>
+<b>YouTube</b>
 </a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/@nilldatta" target="_blank"><b>YouTube</b></a>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td width="50"></td>
 
+<td align="center">
 <a href="mailto:sagnikduttaimps@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45" align="center"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+<br>
+<b>Email</b>
 </a>
-&nbsp;&nbsp;
-<a href="mailto:sagnikduttaimps@gmail.com"><b>Email</b></a>
+</td>
 
+</tr>
+</table>
 </p>
-
 
 ---
 
