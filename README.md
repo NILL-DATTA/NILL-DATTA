@@ -1,7 +1,9 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000009ff87208863b3ff4cb2d4e7c&ts=494407&p=fs&cid=1&sig=1dbf67e064e00c2d092fc6e3e0ea40e75687b0fd40b1691b3aadca51fa293ed5&v=0" alt="Sagnik Datta Banner" width="100%"/>
+  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000009ff87208863b3ff4cb2d4e7c&ts=494407&p=fs&cid=1&sig=1dbf67e064e00c2d092fc6e3e0ea40e75687b0fd40b1691b3aadca51fa293ed5&v=0"
+       alt="Sagnik Datta Banner"
+       width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Sagnik Datta</h1>
