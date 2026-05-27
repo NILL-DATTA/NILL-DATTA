@@ -1,3 +1,9 @@
+<!-- Banner -->
+
+<p align="center">
+  <img src="YOUR_BANNER_LINK_HERE" alt="Sagnik Datta Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Sagnik Datta</h1>
 
 <h3 align="center">
@@ -5,11 +11,7 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nill-datta&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:960/1*5SFCDaNp6A0KtXGxzTCMCA.gif" width="700"/>
+  <img src="https://komarev.com/ghpvc/?username=nill-datta&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -17,61 +19,40 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
 ## 🚀 About Me
 
 - 🔭 Currently working on **Swiggy Clone**
-- 🌱 Learning **Node.js & Backend Development**
-- 💬 Ask me about **React.js, Next.js, JavaScript**
-- 📫 Reach me at **sagnikduttaimps@gmail.com**
-- ⚡ Fun Fact: **I run on memes, coffee & console.logs ☕**
-
-
+- 🌱 Learning **Node.js**
+- 💬 Ask me about **React.js, Next.js**
+- 📫 Reach me: **sagnikduttaimps@gmail.com**
+- ⚡ Fun Fact: **I think I'm a funny Gen-Z 😄**
 
 ---
+
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.youtube.com/@nilldatta" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="55"/>
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@nilldatta" target="_blank">
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="55"/>
+</a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:sagnikduttaimps@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="55"/>
-  </a>
+<a href="mailto:sagnikduttaimps@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+</a>
 </p>
 
 ---
+
 ## 🛠️ Languages & Tools
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,mongodb,git,github,vscode" />
-
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,mongodb,git,github,vscode"/>
 </p>
 
 ---
 
-## 🌟 Featured Project
-
-### 🍔 Swiggy Clone
-
-A responsive food delivery web application built using **React.js**.
-
-🔗 **Repository:**  
-https://github.com/NILL-DATTA/SwiggyFrontEnd.git
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nill-datta&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
@@ -84,13 +65,3 @@ https://github.com/NILL-DATTA/SwiggyFrontEnd.git
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nill-datta&theme=tokyonight"/>
 </p>
-
----
-
-## 💻 Quote of the Day
-
-<p align="center">
-<i>"Code. Learn. Build. Repeat."</i>
-</p>
-
-<h3 align="center">Thanks for visiting ❤️</h3>
