@@ -71,6 +71,30 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 
 ---
 
+##  Work Experience
+
+###  Senior Technical Analyst (React.js)  
+**Webskitters Academy** | *2023 – Present*
+
+- Leading and mentoring learners in **React.js development**.
+- Delivering technical guidance on **modern frontend development practices**.
+- Working with **React.js, JavaScript, component architecture, state management, and performance optimization**.
+- Assisting in building scalable, responsive, and production-ready web applications.
+- Supporting students and teams with **problem-solving, debugging, and best coding practices**.
+
+---
+
+### 💻 Junior React.js Developer  
+**Webskitters Technology Pvt. Ltd.** | *July 2021 – 2023*
+
+- Developed and maintained **responsive, user-friendly web applications** using **React.js**.
+- Collaborated with cross-functional teams to implement **modern UI/UX designs**.
+- Built reusable components and optimized application performance.
+- Integrated APIs and managed dynamic frontend functionalities.
+- Contributed to delivering scalable, clean, and maintainable code following industry standards.
+
+---
+
 ##  Connect With Me
 
 <p align="center">
