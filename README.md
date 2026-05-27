@@ -24,7 +24,7 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
 
 
 
-
+---
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
@@ -41,7 +41,7 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
   </a>
 </p>
 
-
+---
 ## 🛠️ Languages & Tools
 
 <p align="center">
