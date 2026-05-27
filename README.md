@@ -71,38 +71,36 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
   - Software Development Concepts
 
 
-
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="70" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" align="center"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank"><b>LinkedIn</b></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@nilldatta" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="70" />
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="45" align="center"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@nilldatta" target="_blank"><b>YouTube</b></a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sagnikduttaimps@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="70" />
+<img src="https://skillicons.dev/icons?i=gmail" width="45" align="center"/>
 </a>
-
-</p>
-
-<p align="center">
-
-<a href="https://linkedin.com/in/sagnik-datta-3065b91b4"><b>LinkedIn</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.youtube.com/@nilldatta"><b>YouTube</b></a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:sagnikduttaimps@gmail.com"><b>Email</b></a>
 
 </p>
+
 
 ---
 
