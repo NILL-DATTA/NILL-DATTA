@@ -22,33 +22,25 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
 - 📫 Reach me at **sagnikduttaimps@gmail.com**
 - ⚡ Fun Fact: **I run on memes, coffee & console.logs ☕**
 
----
 
-## 🌐 Connect With Me
+
 
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
+  <a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="55"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-<a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
-</a>
+  <a href="https://www.youtube.com/@nilldatta" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="YouTube" height="55"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-
-
-<a href="https://www.youtube.com/@nilldatta" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
-       height="55"
-       alt="YouTube"/>
-</a>
-
-
-<a href="mailto:sagnikduttaimps@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail"/>
-</a>
-
+  <a href="mailto:sagnikduttaimps@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="55"/>
+  </a>
 </p>
----
+
 
 ## 🛠️ Languages & Tools
 
