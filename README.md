@@ -32,7 +32,7 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
 </a>
 
 <a href="https://www.youtube.com/@nilldatta" target="_blank">
-<img src="https://skillicons.dev/icons?i=youtube" width="50"/>
+<img src="https://goodly.co.in/wp-content/uploads/2023/10/youtube-logo-png-46016-1.png" width="50"/>
 </a>
 
 <a href="mailto:sagnikduttaimps@gmail.com">
