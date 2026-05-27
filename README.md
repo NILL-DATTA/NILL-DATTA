@@ -34,7 +34,7 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <a href="https://www.youtube.com/@nilldatta" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"
@@ -42,7 +42,6 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
        alt="YouTube"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sagnikduttaimps@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail"/>
