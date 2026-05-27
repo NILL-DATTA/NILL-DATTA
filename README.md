@@ -20,27 +20,17 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
 
 ## 🚀 About Me
 
-<table>
-<tr>
-
-<td width="55%">
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/userupload/21374609/file/original-aab4fed54e17b77f5da6c9a4a0931a74.gif">
 
 - 🔭 Currently working on **Swiggy Clone**
+
 - 🌱 Learning **Node.js**
+
 - 💬 Ask me about **React.js, Next.js**
+
 - 📫 Reach me: **sagnikduttaimps@gmail.com**
+
 - ⚡ Fun Fact: **I think I'm a funny Gen-Z 😄**
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://cdn.dribbble.com/userupload/21374609/file/original-aab4fed54e17b77f5da6c9a4a0931a74.gif" width="320"/>
-
-</td>
-
-</tr>
-</table>
 
 ---
 
