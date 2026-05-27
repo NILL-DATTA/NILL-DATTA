@@ -70,70 +70,59 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
   - Database Systems
   - Software Development Concepts
 
+
+
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
-
-<table>
-<tr>
-
-<td align="center" width="180">
 
 <a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="70" />
 </a>
-
-### LinkedIn
-
-Professional Network
-
-</td>
-
-<td align="center" width="180">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@nilldatta" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="55" />
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="70" />
 </a>
-
-### YouTube
-
-Content & Projects
-
-</td>
-
-<td align="center" width="180">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:sagnikduttaimps@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55" />
+<img src="https://skillicons.dev/icons?i=gmail" width="70" />
 </a>
 
-### Email
+</p>
 
-Direct Contact
+<p align="center">
 
-</td>
-
-</tr>
-</table>
+<a href="https://linkedin.com/in/sagnik-datta-3065b91b4"><b>LinkedIn</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.youtube.com/@nilldatta"><b>YouTube</b></a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:sagnikduttaimps@gmail.com"><b>Email</b></a>
 
 </p>
+
 ---
 
-## 📈 GitHub Analytics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nill-datta&show_icons=true&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nill-datta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nill-datta&layout=compact&theme=tokyonight" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nill-datta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nill-datta&theme=tokyonight" />
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-datta&theme=tokyonight&hide_border=true&background=0D1117" />
+
 </p>
+
+
 
 ---
 
