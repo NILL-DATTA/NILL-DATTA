@@ -72,38 +72,53 @@ I enjoy transforming ideas into clean, modern, and scalable digital experiences 
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,nodejs,mongodb,git,github,vscode" />
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
 
+<table>
+<tr>
+
+<td align="center" width="180">
+
 <a href="https://linkedin.com/in/sagnik-datta-3065b91b4" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="55" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+### LinkedIn
+
+Professional Network
+
+</td>
+
+<td align="center" width="180">
 
 <a href="https://www.youtube.com/@nilldatta" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" height="55" />
+<img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="55" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+### YouTube
+
+Content & Projects
+
+</td>
+
+<td align="center" width="180">
 
 <a href="mailto:sagnikduttaimps@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+<img src="https://skillicons.dev/icons?i=gmail" width="55" />
 </a>
 
-</p>
+### Email
 
+Direct Contact
+
+</td>
+
+</tr>
+</table>
+
+</p>
 ---
 
 ## 📈 GitHub Analytics
