@@ -31,7 +31,7 @@ Frontend Developer | React.js & Next.js Enthusiast | Building Fast, Responsive &
 <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://www.youtube.com/c/nilldatta" target="_blank">
+<a href="https://www.youtube.com/@nilldatta" target="_blank">
 <img src="https://skillicons.dev/icons?i=youtube" width="50"/>
 </a>
 
